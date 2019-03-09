@@ -1,13 +1,17 @@
  **Aplikasi Sensus Penduduk**
  - Nama database = penduduk
- database yang digunakan Mysql
+ 
+  lokasi sql folder = database/penduduk.sql
+ 
+- Database yang digunakan Mysql
 
- lokasi sql folder = database/penduduk.sql
+
 
 -  xampp
 -  PHP 5
--  VisualCode (textdeitor)
+-  VisualCode (texteditor)
 
  bahasa pemrograman yang digunakan PHP.
+ 
+ localhost/beasiswaarka
 
- [login](https://localhost/beasiswaarka)
