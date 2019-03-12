@@ -15,7 +15,7 @@
 - Clone atau download this repository
 - Pindahkan repository folder to XAMPP/htdocs folder pada Local Drive anda.
 - Mulai Aplikasi XAMPP, nyalakan Apache dan MySQL
-- di browser, navigate to https://localhost/beasiswaarka
+- di browser, navigate to http://localhost/beasiswaarka
 
 **Import database**
 
